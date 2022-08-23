@@ -1,7 +1,9 @@
 # Unlock Smart Contract
 
-Inspired by @UnlocksCalendar tweet
-"Very difficult to find the right balance between projects with no VCs involved (might lack funding in bear mrkt) and projects with massive VCs investments (might dump on you). Would be cool to have smart contracts with team / VCs compensations based on project milestones"
+Inspired by @UnlocksCalendar tweet:
+
+> "Very difficult to find the right balance between projects with no VCs involved (might lack funding in bear mrkt) and projects with massive VCs investments (might dump on you). Would be cool to have smart contracts with team / VCs compensations based on project milestones"
+
 https://twitter.com/UnlocksCalendar/status/1562179750784794624
 
 The contract is here: https://github.com/jamesbachini/Unlock-Smart-Contract/blob/main/contracts/Unlock.sol
@@ -33,6 +35,6 @@ Code is experimental, not professionally tested and for demonstration purposes o
 
 For more information, memes and Solidity tutorials:
 
-Blog: https://jamesbachini.com
-YouTube: https://www.youtube.com/c/JamesBachini
-Twitter: https://twitter.com/james_bachini
+- Blog: https://jamesbachini.com
+- YouTube: https://www.youtube.com/c/JamesBachini
+- Twitter: https://twitter.com/james_bachini
